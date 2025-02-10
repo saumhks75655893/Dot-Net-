@@ -1,0 +1,7 @@
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\data_type\bin\Debug\data_type.exe.config
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\data_type\bin\Debug\data_type.exe
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\data_type\bin\Debug\data_type.pdb
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\data_type\obj\Debug\data_type.csproj.AssemblyReference.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\data_type\obj\Debug\data_type.csproj.CoreCompileInputs.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\data_type\obj\Debug\data_type.exe
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\data_type\obj\Debug\data_type.pdb

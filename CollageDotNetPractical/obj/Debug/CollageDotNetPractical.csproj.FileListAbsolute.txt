@@ -1,0 +1,7 @@
+D:\ALL PROGRAMMING\Dot-Net-\CollageDotNetPractical\bin\Debug\CollageDotNetPractical.exe.config
+D:\ALL PROGRAMMING\Dot-Net-\CollageDotNetPractical\bin\Debug\CollageDotNetPractical.exe
+D:\ALL PROGRAMMING\Dot-Net-\CollageDotNetPractical\bin\Debug\CollageDotNetPractical.pdb
+D:\ALL PROGRAMMING\Dot-Net-\CollageDotNetPractical\obj\Debug\CollageDotNetPractical.csproj.AssemblyReference.cache
+D:\ALL PROGRAMMING\Dot-Net-\CollageDotNetPractical\obj\Debug\CollageDotNetPractical.csproj.CoreCompileInputs.cache
+D:\ALL PROGRAMMING\Dot-Net-\CollageDotNetPractical\obj\Debug\CollageDotNetPractical.exe
+D:\ALL PROGRAMMING\Dot-Net-\CollageDotNetPractical\obj\Debug\CollageDotNetPractical.pdb
