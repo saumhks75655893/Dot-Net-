@@ -1,0 +1,7 @@
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OperatorsAndExpressions\bin\Debug\OperatorsAndExpressions.exe.config
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OperatorsAndExpressions\bin\Debug\OperatorsAndExpressions.exe
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OperatorsAndExpressions\bin\Debug\OperatorsAndExpressions.pdb
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OperatorsAndExpressions\obj\Debug\OperatorsAndExpressions.csproj.AssemblyReference.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OperatorsAndExpressions\obj\Debug\OperatorsAndExpressions.csproj.CoreCompileInputs.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OperatorsAndExpressions\obj\Debug\OperatorsAndExpressions.exe
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OperatorsAndExpressions\obj\Debug\OperatorsAndExpressions.pdb
