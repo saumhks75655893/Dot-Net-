@@ -1,0 +1,7 @@
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\ArrayFunctionAndTheirUses\bin\Debug\ArrayFunctionAndTheirUses.exe.config
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\ArrayFunctionAndTheirUses\bin\Debug\ArrayFunctionAndTheirUses.exe
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\ArrayFunctionAndTheirUses\bin\Debug\ArrayFunctionAndTheirUses.pdb
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\ArrayFunctionAndTheirUses\obj\Debug\ArrayFunctionAndTheirUses.csproj.AssemblyReference.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\ArrayFunctionAndTheirUses\obj\Debug\ArrayFunctionAndTheirUses.csproj.CoreCompileInputs.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\ArrayFunctionAndTheirUses\obj\Debug\ArrayFunctionAndTheirUses.exe
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\ArrayFunctionAndTheirUses\obj\Debug\ArrayFunctionAndTheirUses.pdb

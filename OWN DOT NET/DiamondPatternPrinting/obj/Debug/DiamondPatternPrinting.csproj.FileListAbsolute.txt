@@ -1,0 +1,7 @@
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\DiamondPatternPrinting\bin\Debug\DiamondPatternPrinting.exe.config
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\DiamondPatternPrinting\bin\Debug\DiamondPatternPrinting.exe
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\DiamondPatternPrinting\bin\Debug\DiamondPatternPrinting.pdb
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\DiamondPatternPrinting\obj\Debug\DiamondPatternPrinting.csproj.AssemblyReference.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\DiamondPatternPrinting\obj\Debug\DiamondPatternPrinting.csproj.CoreCompileInputs.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\DiamondPatternPrinting\obj\Debug\DiamondPatternPrinting.exe
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\DiamondPatternPrinting\obj\Debug\DiamondPatternPrinting.pdb

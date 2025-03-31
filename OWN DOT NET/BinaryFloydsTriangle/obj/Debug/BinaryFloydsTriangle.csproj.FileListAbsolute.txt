@@ -1,0 +1,7 @@
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\BinaryFloydsTriangle\bin\Debug\BinaryFloydsTriangle.exe.config
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\BinaryFloydsTriangle\bin\Debug\BinaryFloydsTriangle.exe
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\BinaryFloydsTriangle\bin\Debug\BinaryFloydsTriangle.pdb
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\BinaryFloydsTriangle\obj\Debug\BinaryFloydsTriangle.csproj.AssemblyReference.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\BinaryFloydsTriangle\obj\Debug\BinaryFloydsTriangle.csproj.CoreCompileInputs.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\BinaryFloydsTriangle\obj\Debug\BinaryFloydsTriangle.exe
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\BinaryFloydsTriangle\obj\Debug\BinaryFloydsTriangle.pdb

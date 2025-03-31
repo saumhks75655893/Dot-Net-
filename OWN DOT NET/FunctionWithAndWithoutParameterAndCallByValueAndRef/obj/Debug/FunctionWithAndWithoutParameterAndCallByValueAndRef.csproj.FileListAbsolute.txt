@@ -1,0 +1,7 @@
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\FunctionWithAndWithoutParameterAndCallByValueAndRef\obj\Debug\FunctionWithAndWithoutParameterAndCallByValueAndRef.csproj.AssemblyReference.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\FunctionWithAndWithoutParameterAndCallByValueAndRef\obj\Debug\FunctionWithAndWithoutParameterAndCallByValueAndRef.csproj.CoreCompileInputs.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\FunctionWithAndWithoutParameterAndCallByValueAndRef\bin\Debug\FunctionWithAndWithoutParameterAndCallByValueAndRef.exe.config
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\FunctionWithAndWithoutParameterAndCallByValueAndRef\bin\Debug\FunctionWithAndWithoutParameterAndCallByValueAndRef.exe
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\FunctionWithAndWithoutParameterAndCallByValueAndRef\bin\Debug\FunctionWithAndWithoutParameterAndCallByValueAndRef.pdb
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\FunctionWithAndWithoutParameterAndCallByValueAndRef\obj\Debug\FunctionWithAndWithoutParameterAndCallByValueAndRef.exe
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\FunctionWithAndWithoutParameterAndCallByValueAndRef\obj\Debug\FunctionWithAndWithoutParameterAndCallByValueAndRef.pdb

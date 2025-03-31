@@ -1,0 +1,7 @@
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\ConditionalStatement\obj\Debug\ConditionalStatement.csproj.AssemblyReference.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\ConditionalStatement\obj\Debug\ConditionalStatement.csproj.CoreCompileInputs.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\ConditionalStatement\bin\Debug\ConditionalStatement.exe.config
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\ConditionalStatement\bin\Debug\ConditionalStatement.exe
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\ConditionalStatement\bin\Debug\ConditionalStatement.pdb
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\ConditionalStatement\obj\Debug\ConditionalStatement.exe
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\ConditionalStatement\obj\Debug\ConditionalStatement.pdb

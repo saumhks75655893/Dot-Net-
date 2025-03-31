@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ALL PROGRAMMING\\Dot-Net-\\OWN DOT NET\\ConditionalStatement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C470245-3FCF-48D4-8AE4-0DFFFEFE2649}|ConditionalStatement.csproj|d:\\all programming\\dot-net-\\own dot net\\conditionalstatement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C470245-3FCF-48D4-8AE4-0DFFFEFE2649}|ConditionalStatement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ALL PROGRAMMING\\Dot-Net-\\OWN DOT NET\\ConditionalStatement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ALL PROGRAMMING\\Dot-Net-\\OWN DOT NET\\ConditionalStatement\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAQwBoBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T03:50:30.858Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
