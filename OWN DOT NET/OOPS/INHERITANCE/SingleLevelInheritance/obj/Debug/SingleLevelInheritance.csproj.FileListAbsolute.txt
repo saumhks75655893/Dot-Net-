@@ -1,0 +1,7 @@
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\INHERITANCE\SingleLevelInheritance\bin\Debug\SingleLevelInheritance.exe.config
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\INHERITANCE\SingleLevelInheritance\bin\Debug\SingleLevelInheritance.exe
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\INHERITANCE\SingleLevelInheritance\bin\Debug\SingleLevelInheritance.pdb
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\INHERITANCE\SingleLevelInheritance\obj\Debug\SingleLevelInheritance.csproj.AssemblyReference.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\INHERITANCE\SingleLevelInheritance\obj\Debug\SingleLevelInheritance.csproj.CoreCompileInputs.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\INHERITANCE\SingleLevelInheritance\obj\Debug\SingleLevelInheritance.exe
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\INHERITANCE\SingleLevelInheritance\obj\Debug\SingleLevelInheritance.pdb

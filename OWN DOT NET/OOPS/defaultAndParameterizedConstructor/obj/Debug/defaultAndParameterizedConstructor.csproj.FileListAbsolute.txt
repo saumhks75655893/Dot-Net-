@@ -1,0 +1,7 @@
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\defaultAndParameterizedConstructor\bin\Debug\defaultAndParameterizedConstructor.exe.config
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\defaultAndParameterizedConstructor\bin\Debug\defaultAndParameterizedConstructor.exe
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\defaultAndParameterizedConstructor\bin\Debug\defaultAndParameterizedConstructor.pdb
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\defaultAndParameterizedConstructor\obj\Debug\defaultAndParameterizedConstructor.csproj.AssemblyReference.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\defaultAndParameterizedConstructor\obj\Debug\defaultAndParameterizedConstructor.csproj.CoreCompileInputs.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\defaultAndParameterizedConstructor\obj\Debug\defaultAndParameterizedConstructor.exe
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\defaultAndParameterizedConstructor\obj\Debug\defaultAndParameterizedConstructor.pdb

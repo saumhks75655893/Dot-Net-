@@ -1,0 +1,7 @@
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\privateAndStaticConstructor\bin\Debug\privateAndStaticConstructor.exe.config
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\privateAndStaticConstructor\bin\Debug\privateAndStaticConstructor.exe
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\privateAndStaticConstructor\bin\Debug\privateAndStaticConstructor.pdb
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\privateAndStaticConstructor\obj\Debug\privateAndStaticConstructor.csproj.AssemblyReference.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\privateAndStaticConstructor\obj\Debug\privateAndStaticConstructor.csproj.CoreCompileInputs.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\privateAndStaticConstructor\obj\Debug\privateAndStaticConstructor.exe
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\privateAndStaticConstructor\obj\Debug\privateAndStaticConstructor.pdb

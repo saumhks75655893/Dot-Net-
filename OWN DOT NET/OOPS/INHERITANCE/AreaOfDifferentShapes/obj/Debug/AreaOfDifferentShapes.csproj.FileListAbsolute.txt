@@ -1,0 +1,7 @@
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\INHERITANCE\AreaOfDifferentShapes\obj\Debug\AreaOfDifferentShapes.csproj.AssemblyReference.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\INHERITANCE\AreaOfDifferentShapes\obj\Debug\AreaOfDifferentShapes.csproj.CoreCompileInputs.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\INHERITANCE\AreaOfDifferentShapes\bin\Debug\AreaOfDifferentShapes.exe.config
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\INHERITANCE\AreaOfDifferentShapes\bin\Debug\AreaOfDifferentShapes.exe
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\INHERITANCE\AreaOfDifferentShapes\bin\Debug\AreaOfDifferentShapes.pdb
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\INHERITANCE\AreaOfDifferentShapes\obj\Debug\AreaOfDifferentShapes.exe
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\INHERITANCE\AreaOfDifferentShapes\obj\Debug\AreaOfDifferentShapes.pdb

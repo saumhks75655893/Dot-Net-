@@ -1,0 +1,7 @@
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\Destructor\bin\Debug\Destructor.exe.config
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\Destructor\bin\Debug\Destructor.exe
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\Destructor\bin\Debug\Destructor.pdb
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\Destructor\obj\Debug\Destructor.csproj.AssemblyReference.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\Destructor\obj\Debug\Destructor.csproj.CoreCompileInputs.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\Destructor\obj\Debug\Destructor.exe
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\Destructor\obj\Debug\Destructor.pdb

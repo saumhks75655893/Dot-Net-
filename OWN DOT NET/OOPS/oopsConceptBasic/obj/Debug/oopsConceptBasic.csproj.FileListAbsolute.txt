@@ -1,0 +1,7 @@
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\oopsConceptBasic\bin\Debug\oopsConceptBasic.exe.config
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\oopsConceptBasic\bin\Debug\oopsConceptBasic.exe
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\oopsConceptBasic\bin\Debug\oopsConceptBasic.pdb
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\oopsConceptBasic\obj\Debug\oopsConceptBasic.csproj.AssemblyReference.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\oopsConceptBasic\obj\Debug\oopsConceptBasic.csproj.CoreCompileInputs.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\oopsConceptBasic\obj\Debug\oopsConceptBasic.exe
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\oopsConceptBasic\obj\Debug\oopsConceptBasic.pdb

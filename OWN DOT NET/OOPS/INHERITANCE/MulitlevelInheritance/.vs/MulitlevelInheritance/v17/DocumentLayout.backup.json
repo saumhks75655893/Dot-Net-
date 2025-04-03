@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ALL PROGRAMMING\\Dot-Net-\\OWN DOT NET\\OOPS\\INHERITANCE\\MulitlevelInheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2FC3DB-7B7E-4F84-8F58-D808B2457DFC}|MulitlevelInheritance.csproj|d:\\all programming\\dot-net-\\own dot net\\oops\\inheritance\\mulitlevelinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2FC3DB-7B7E-4F84-8F58-D808B2457DFC}|MulitlevelInheritance.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ALL PROGRAMMING\\Dot-Net-\\OWN DOT NET\\OOPS\\INHERITANCE\\MulitlevelInheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ALL PROGRAMMING\\Dot-Net-\\OWN DOT NET\\OOPS\\INHERITANCE\\MulitlevelInheritance\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T05:34:13.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

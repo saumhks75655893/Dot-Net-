@@ -1,0 +1,7 @@
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\INHERITANCE\HeirarchicalInheritance\bin\Debug\HeirarchicalInheritance.exe.config
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\INHERITANCE\HeirarchicalInheritance\bin\Debug\HeirarchicalInheritance.exe
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\INHERITANCE\HeirarchicalInheritance\bin\Debug\HeirarchicalInheritance.pdb
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\INHERITANCE\HeirarchicalInheritance\obj\Debug\HeirarchicalInheritance.csproj.AssemblyReference.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\INHERITANCE\HeirarchicalInheritance\obj\Debug\HeirarchicalInheritance.csproj.CoreCompileInputs.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\INHERITANCE\HeirarchicalInheritance\obj\Debug\HeirarchicalInheritance.exe
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\OOPS\INHERITANCE\HeirarchicalInheritance\obj\Debug\HeirarchicalInheritance.pdb
