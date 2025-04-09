@@ -1,0 +1,10 @@
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\WINDOWS FORMS\WindowsFormCalculatorProgram\bin\Debug\WindowsFormCalculatorProgram.exe.config
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\WINDOWS FORMS\WindowsFormCalculatorProgram\bin\Debug\WindowsFormCalculatorProgram.exe
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\WINDOWS FORMS\WindowsFormCalculatorProgram\bin\Debug\WindowsFormCalculatorProgram.pdb
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\WINDOWS FORMS\WindowsFormCalculatorProgram\obj\Debug\WindowsFormCalculatorProgram.csproj.AssemblyReference.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\WINDOWS FORMS\WindowsFormCalculatorProgram\obj\Debug\WindowsFormCalculatorProgram.Form1.resources
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\WINDOWS FORMS\WindowsFormCalculatorProgram\obj\Debug\WindowsFormCalculatorProgram.Properties.Resources.resources
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\WINDOWS FORMS\WindowsFormCalculatorProgram\obj\Debug\WindowsFormCalculatorProgram.csproj.GenerateResource.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\WINDOWS FORMS\WindowsFormCalculatorProgram\obj\Debug\WindowsFormCalculatorProgram.csproj.CoreCompileInputs.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\WINDOWS FORMS\WindowsFormCalculatorProgram\obj\Debug\WindowsFormCalculatorProgram.exe
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\WINDOWS FORMS\WindowsFormCalculatorProgram\obj\Debug\WindowsFormCalculatorProgram.pdb

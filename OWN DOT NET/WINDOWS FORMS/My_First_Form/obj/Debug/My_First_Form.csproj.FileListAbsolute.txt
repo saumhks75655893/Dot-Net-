@@ -1,0 +1,10 @@
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\WINDOWS FORMS\My_First_Form\bin\Debug\My_First_Form.exe.config
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\WINDOWS FORMS\My_First_Form\bin\Debug\My_First_Form.exe
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\WINDOWS FORMS\My_First_Form\bin\Debug\My_First_Form.pdb
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\WINDOWS FORMS\My_First_Form\obj\Debug\My_First_Form.csproj.AssemblyReference.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\WINDOWS FORMS\My_First_Form\obj\Debug\My_First_Form.Properties.Resources.resources
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\WINDOWS FORMS\My_First_Form\obj\Debug\My_First_Form.csproj.GenerateResource.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\WINDOWS FORMS\My_First_Form\obj\Debug\My_First_Form.csproj.CoreCompileInputs.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\WINDOWS FORMS\My_First_Form\obj\Debug\My_First_Form.exe
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\WINDOWS FORMS\My_First_Form\obj\Debug\My_First_Form.pdb
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\WINDOWS FORMS\My_First_Form\obj\Debug\My_First_Form.MY_FIRST_FORM.resources
