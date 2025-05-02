@@ -1,0 +1,7 @@
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionNineteenMultilevelInheritance\bin\Debug\QuestionNineteenMultilevelInheritance.exe.config
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionNineteenMultilevelInheritance\bin\Debug\QuestionNineteenMultilevelInheritance.exe
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionNineteenMultilevelInheritance\bin\Debug\QuestionNineteenMultilevelInheritance.pdb
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionNineteenMultilevelInheritance\obj\Debug\QuestionNineteenMultilevelInheritance.csproj.AssemblyReference.cache
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionNineteenMultilevelInheritance\obj\Debug\QuestionNineteenMultilevelInheritance.csproj.CoreCompileInputs.cache
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionNineteenMultilevelInheritance\obj\Debug\QuestionNineteenMultilevelInheritance.exe
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionNineteenMultilevelInheritance\obj\Debug\QuestionNineteenMultilevelInheritance.pdb

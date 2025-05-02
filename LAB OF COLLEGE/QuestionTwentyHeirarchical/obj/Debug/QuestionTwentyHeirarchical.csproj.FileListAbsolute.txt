@@ -1,0 +1,7 @@
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionTwentyHeirarchical\bin\Debug\QuestionTwentyHeirarchical.exe.config
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionTwentyHeirarchical\bin\Debug\QuestionTwentyHeirarchical.exe
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionTwentyHeirarchical\bin\Debug\QuestionTwentyHeirarchical.pdb
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionTwentyHeirarchical\obj\Debug\QuestionTwentyHeirarchical.csproj.AssemblyReference.cache
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionTwentyHeirarchical\obj\Debug\QuestionTwentyHeirarchical.csproj.CoreCompileInputs.cache
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionTwentyHeirarchical\obj\Debug\QuestionTwentyHeirarchical.exe
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionTwentyHeirarchical\obj\Debug\QuestionTwentyHeirarchical.pdb

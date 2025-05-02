@@ -1,0 +1,7 @@
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionEighteenSingleInheritance\bin\Debug\QuestionEighteenSingleInheritance.exe.config
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionEighteenSingleInheritance\bin\Debug\QuestionEighteenSingleInheritance.exe
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionEighteenSingleInheritance\bin\Debug\QuestionEighteenSingleInheritance.pdb
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionEighteenSingleInheritance\obj\Debug\QuestionEighteenSingleInheritance.csproj.AssemblyReference.cache
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionEighteenSingleInheritance\obj\Debug\QuestionEighteenSingleInheritance.csproj.CoreCompileInputs.cache
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionEighteenSingleInheritance\obj\Debug\QuestionEighteenSingleInheritance.exe
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionEighteenSingleInheritance\obj\Debug\QuestionEighteenSingleInheritance.pdb

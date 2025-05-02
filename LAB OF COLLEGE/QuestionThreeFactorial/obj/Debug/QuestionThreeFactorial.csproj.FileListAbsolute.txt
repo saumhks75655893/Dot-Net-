@@ -1,0 +1,7 @@
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionThreeFactorial\bin\Debug\QuestionThreeFactorial.exe.config
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionThreeFactorial\bin\Debug\QuestionThreeFactorial.exe
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionThreeFactorial\bin\Debug\QuestionThreeFactorial.pdb
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionThreeFactorial\obj\Debug\QuestionThreeFactorial.csproj.AssemblyReference.cache
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionThreeFactorial\obj\Debug\QuestionThreeFactorial.csproj.CoreCompileInputs.cache
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionThreeFactorial\obj\Debug\QuestionThreeFactorial.exe
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionThreeFactorial\obj\Debug\QuestionThreeFactorial.pdb

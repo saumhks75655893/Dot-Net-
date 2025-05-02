@@ -1,0 +1,7 @@
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionSixDecimalToBinary\bin\Debug\QuestionSixDecimalToBinary.exe.config
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionSixDecimalToBinary\bin\Debug\QuestionSixDecimalToBinary.exe
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionSixDecimalToBinary\bin\Debug\QuestionSixDecimalToBinary.pdb
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionSixDecimalToBinary\obj\Debug\QuestionSixDecimalToBinary.csproj.AssemblyReference.cache
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionSixDecimalToBinary\obj\Debug\QuestionSixDecimalToBinary.csproj.CoreCompileInputs.cache
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionSixDecimalToBinary\obj\Debug\QuestionSixDecimalToBinary.exe
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionSixDecimalToBinary\obj\Debug\QuestionSixDecimalToBinary.pdb

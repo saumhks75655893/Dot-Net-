@@ -1,0 +1,7 @@
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionSevenNumberTriangle\bin\Debug\QuestionSevenNumberTriangle.exe.config
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionSevenNumberTriangle\bin\Debug\QuestionSevenNumberTriangle.exe
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionSevenNumberTriangle\bin\Debug\QuestionSevenNumberTriangle.pdb
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionSevenNumberTriangle\obj\Debug\QuestionSevenNumberTriangle.csproj.AssemblyReference.cache
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionSevenNumberTriangle\obj\Debug\QuestionSevenNumberTriangle.csproj.CoreCompileInputs.cache
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionSevenNumberTriangle\obj\Debug\QuestionSevenNumberTriangle.exe
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionSevenNumberTriangle\obj\Debug\QuestionSevenNumberTriangle.pdb

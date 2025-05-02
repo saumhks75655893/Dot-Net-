@@ -1,0 +1,7 @@
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\EXCEPTION HANDLING\ExceptionHandlingDemo\bin\Debug\ExceptionHandlingDemo.exe.config
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\EXCEPTION HANDLING\ExceptionHandlingDemo\bin\Debug\ExceptionHandlingDemo.exe
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\EXCEPTION HANDLING\ExceptionHandlingDemo\bin\Debug\ExceptionHandlingDemo.pdb
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\EXCEPTION HANDLING\ExceptionHandlingDemo\obj\Debug\ExceptionHandlingDemo.csproj.AssemblyReference.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\EXCEPTION HANDLING\ExceptionHandlingDemo\obj\Debug\ExceptionHandlingDemo.csproj.CoreCompileInputs.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\EXCEPTION HANDLING\ExceptionHandlingDemo\obj\Debug\ExceptionHandlingDemo.exe
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\EXCEPTION HANDLING\ExceptionHandlingDemo\obj\Debug\ExceptionHandlingDemo.pdb

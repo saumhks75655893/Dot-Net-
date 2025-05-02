@@ -1,0 +1,7 @@
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionTwentyThreeStructure\bin\Debug\QuestionTwentyThreeStructure.exe.config
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionTwentyThreeStructure\bin\Debug\QuestionTwentyThreeStructure.exe
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionTwentyThreeStructure\bin\Debug\QuestionTwentyThreeStructure.pdb
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionTwentyThreeStructure\obj\Debug\QuestionTwentyThreeStructure.csproj.AssemblyReference.cache
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionTwentyThreeStructure\obj\Debug\QuestionTwentyThreeStructure.csproj.CoreCompileInputs.cache
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionTwentyThreeStructure\obj\Debug\QuestionTwentyThreeStructure.exe
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionTwentyThreeStructure\obj\Debug\QuestionTwentyThreeStructure.pdb

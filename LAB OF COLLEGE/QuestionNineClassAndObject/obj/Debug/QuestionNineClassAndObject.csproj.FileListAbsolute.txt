@@ -1,0 +1,7 @@
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionNineClassAndObject\bin\Debug\QuestionNineClassAndObject.exe.config
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionNineClassAndObject\bin\Debug\QuestionNineClassAndObject.exe
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionNineClassAndObject\bin\Debug\QuestionNineClassAndObject.pdb
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionNineClassAndObject\obj\Debug\QuestionNineClassAndObject.csproj.AssemblyReference.cache
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionNineClassAndObject\obj\Debug\QuestionNineClassAndObject.csproj.CoreCompileInputs.cache
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionNineClassAndObject\obj\Debug\QuestionNineClassAndObject.exe
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionNineClassAndObject\obj\Debug\QuestionNineClassAndObject.pdb

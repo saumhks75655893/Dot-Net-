@@ -1,0 +1,7 @@
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionTwentyTwoInterface\bin\Debug\QuestionTwentyTwoInterface.exe.config
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionTwentyTwoInterface\bin\Debug\QuestionTwentyTwoInterface.exe
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionTwentyTwoInterface\bin\Debug\QuestionTwentyTwoInterface.pdb
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionTwentyTwoInterface\obj\Debug\QuestionTwentyTwoInterface.csproj.AssemblyReference.cache
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionTwentyTwoInterface\obj\Debug\QuestionTwentyTwoInterface.csproj.CoreCompileInputs.cache
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionTwentyTwoInterface\obj\Debug\QuestionTwentyTwoInterface.exe
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionTwentyTwoInterface\obj\Debug\QuestionTwentyTwoInterface.pdb

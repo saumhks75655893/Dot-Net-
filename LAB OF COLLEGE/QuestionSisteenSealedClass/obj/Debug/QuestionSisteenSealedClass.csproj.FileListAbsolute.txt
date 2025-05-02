@@ -1,0 +1,7 @@
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionSisteenSealedClass\bin\Debug\QuestionSisteenSealedClass.exe.config
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionSisteenSealedClass\bin\Debug\QuestionSisteenSealedClass.exe
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionSisteenSealedClass\bin\Debug\QuestionSisteenSealedClass.pdb
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionSisteenSealedClass\obj\Debug\QuestionSisteenSealedClass.csproj.AssemblyReference.cache
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionSisteenSealedClass\obj\Debug\QuestionSisteenSealedClass.csproj.CoreCompileInputs.cache
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionSisteenSealedClass\obj\Debug\QuestionSisteenSealedClass.exe
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionSisteenSealedClass\obj\Debug\QuestionSisteenSealedClass.pdb

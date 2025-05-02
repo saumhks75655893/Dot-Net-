@@ -1,0 +1,7 @@
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionEightNumberToCharacter\bin\Debug\QuestionEightNumberToCharacter.exe.config
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionEightNumberToCharacter\bin\Debug\QuestionEightNumberToCharacter.exe
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionEightNumberToCharacter\bin\Debug\QuestionEightNumberToCharacter.pdb
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionEightNumberToCharacter\obj\Debug\QuestionEightNumberToCharacter.csproj.AssemblyReference.cache
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionEightNumberToCharacter\obj\Debug\QuestionEightNumberToCharacter.csproj.CoreCompileInputs.cache
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionEightNumberToCharacter\obj\Debug\QuestionEightNumberToCharacter.exe
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionEightNumberToCharacter\obj\Debug\QuestionEightNumberToCharacter.pdb

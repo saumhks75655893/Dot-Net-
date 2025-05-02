@@ -1,0 +1,7 @@
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionFourteenObjectAsArgument\bin\Debug\QuestionFourteenObjectAsArgument.exe.config
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionFourteenObjectAsArgument\bin\Debug\QuestionFourteenObjectAsArgument.exe
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionFourteenObjectAsArgument\bin\Debug\QuestionFourteenObjectAsArgument.pdb
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionFourteenObjectAsArgument\obj\Debug\QuestionFourteenObjectAsArgument.csproj.AssemblyReference.cache
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionFourteenObjectAsArgument\obj\Debug\QuestionFourteenObjectAsArgument.csproj.CoreCompileInputs.cache
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionFourteenObjectAsArgument\obj\Debug\QuestionFourteenObjectAsArgument.exe
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionFourteenObjectAsArgument\obj\Debug\QuestionFourteenObjectAsArgument.pdb

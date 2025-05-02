@@ -1,0 +1,7 @@
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionSeventeenBoxing\bin\Debug\QuestionSeventeenBoxing.exe.config
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionSeventeenBoxing\bin\Debug\QuestionSeventeenBoxing.exe
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionSeventeenBoxing\bin\Debug\QuestionSeventeenBoxing.pdb
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionSeventeenBoxing\obj\Debug\QuestionSeventeenBoxing.csproj.AssemblyReference.cache
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionSeventeenBoxing\obj\Debug\QuestionSeventeenBoxing.csproj.CoreCompileInputs.cache
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionSeventeenBoxing\obj\Debug\QuestionSeventeenBoxing.exe
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionSeventeenBoxing\obj\Debug\QuestionSeventeenBoxing.pdb

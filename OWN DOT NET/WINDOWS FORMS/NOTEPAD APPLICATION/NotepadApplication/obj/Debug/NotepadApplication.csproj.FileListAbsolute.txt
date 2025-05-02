@@ -1,0 +1,10 @@
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\WINDOWS FORMS\NOTEPAD APPLICATION\NotepadApplication\bin\Debug\NotepadApplication.exe.config
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\WINDOWS FORMS\NOTEPAD APPLICATION\NotepadApplication\bin\Debug\NotepadApplication.exe
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\WINDOWS FORMS\NOTEPAD APPLICATION\NotepadApplication\bin\Debug\NotepadApplication.pdb
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\WINDOWS FORMS\NOTEPAD APPLICATION\NotepadApplication\obj\Debug\NotepadApplication.csproj.AssemblyReference.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\WINDOWS FORMS\NOTEPAD APPLICATION\NotepadApplication\obj\Debug\NotepadApplication.Properties.Resources.resources
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\WINDOWS FORMS\NOTEPAD APPLICATION\NotepadApplication\obj\Debug\NotepadApplication.csproj.GenerateResource.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\WINDOWS FORMS\NOTEPAD APPLICATION\NotepadApplication\obj\Debug\NotepadApplication.csproj.CoreCompileInputs.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\WINDOWS FORMS\NOTEPAD APPLICATION\NotepadApplication\obj\Debug\NotepadApplication.exe
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\WINDOWS FORMS\NOTEPAD APPLICATION\NotepadApplication\obj\Debug\NotepadApplication.pdb
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\WINDOWS FORMS\NOTEPAD APPLICATION\NotepadApplication\obj\Debug\NotepadApplication.notepad.resources

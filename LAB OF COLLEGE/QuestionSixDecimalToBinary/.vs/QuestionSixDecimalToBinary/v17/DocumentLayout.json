@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ALL PROGRAMMING\\Dot-Net-\\LAB OF COLLEGE\\QuestionSixDecimalToBinary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD8668D-A0F9-4AD7-A652-CCEFC72CEA67}|QuestionSixDecimalToBinary.csproj|d:\\all programming\\dot-net-\\lab of college\\questionsixdecimaltobinary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD8668D-A0F9-4AD7-A652-CCEFC72CEA67}|QuestionSixDecimalToBinary.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ALL PROGRAMMING\\Dot-Net-\\LAB OF COLLEGE\\QuestionSixDecimalToBinary\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ALL PROGRAMMING\\Dot-Net-\\LAB OF COLLEGE\\QuestionSixDecimalToBinary\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T03:00:23.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionTenThisReference\bin\Debug\QuestionTenThisReference.exe.config
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionTenThisReference\bin\Debug\QuestionTenThisReference.exe
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionTenThisReference\bin\Debug\QuestionTenThisReference.pdb
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionTenThisReference\obj\Debug\QuestionTenThisReference.csproj.AssemblyReference.cache
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionTenThisReference\obj\Debug\QuestionTenThisReference.csproj.CoreCompileInputs.cache
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionTenThisReference\obj\Debug\QuestionTenThisReference.exe
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionTenThisReference\obj\Debug\QuestionTenThisReference.pdb

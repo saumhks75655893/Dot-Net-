@@ -1,0 +1,7 @@
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\fileHandlingUsingFileInfo\bin\Debug\fileHandlingUsingFileInfo.exe.config
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\fileHandlingUsingFileInfo\bin\Debug\fileHandlingUsingFileInfo.exe
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\fileHandlingUsingFileInfo\bin\Debug\fileHandlingUsingFileInfo.pdb
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\fileHandlingUsingFileInfo\obj\Debug\fileHandlingUsingFileInfo.csproj.AssemblyReference.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\fileHandlingUsingFileInfo\obj\Debug\fileHandlingUsingFileInfo.csproj.CoreCompileInputs.cache
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\fileHandlingUsingFileInfo\obj\Debug\fileHandlingUsingFileInfo.exe
+D:\ALL PROGRAMMING\Dot-Net-\OWN DOT NET\fileHandlingUsingFileInfo\obj\Debug\fileHandlingUsingFileInfo.pdb

@@ -1,0 +1,7 @@
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionFourSumOfDigits\bin\Debug\QuestionFourSumOfDigits.exe.config
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionFourSumOfDigits\bin\Debug\QuestionFourSumOfDigits.exe
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionFourSumOfDigits\bin\Debug\QuestionFourSumOfDigits.pdb
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionFourSumOfDigits\obj\Debug\QuestionFourSumOfDigits.csproj.AssemblyReference.cache
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionFourSumOfDigits\obj\Debug\QuestionFourSumOfDigits.csproj.CoreCompileInputs.cache
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionFourSumOfDigits\obj\Debug\QuestionFourSumOfDigits.exe
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionFourSumOfDigits\obj\Debug\QuestionFourSumOfDigits.pdb

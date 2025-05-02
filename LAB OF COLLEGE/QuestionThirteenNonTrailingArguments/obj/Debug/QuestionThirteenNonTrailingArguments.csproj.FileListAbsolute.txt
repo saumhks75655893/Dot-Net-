@@ -1,0 +1,7 @@
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionThirteenNonTrailingArguments\bin\Debug\QuestionThirteenNonTrailingArguments.exe.config
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionThirteenNonTrailingArguments\bin\Debug\QuestionThirteenNonTrailingArguments.exe
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionThirteenNonTrailingArguments\bin\Debug\QuestionThirteenNonTrailingArguments.pdb
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionThirteenNonTrailingArguments\obj\Debug\QuestionThirteenNonTrailingArguments.csproj.AssemblyReference.cache
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionThirteenNonTrailingArguments\obj\Debug\QuestionThirteenNonTrailingArguments.csproj.CoreCompileInputs.cache
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionThirteenNonTrailingArguments\obj\Debug\QuestionThirteenNonTrailingArguments.exe
+D:\ALL PROGRAMMING\Dot-Net-\LAB OF COLLEGE\QuestionThirteenNonTrailingArguments\obj\Debug\QuestionThirteenNonTrailingArguments.pdb
